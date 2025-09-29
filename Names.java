@@ -8,7 +8,7 @@ public class Names {
 		
 		System.out.println("Enter your name:");
 		
-		String names[] = {"Aaron", "Aina", "Chrysgel", "Kai", "Purps", "Sushi", "Wyn", "Kachie", "Vort", "Ash", "Nohz", "Grexle",};
+		String names[] = {"Aaron", "Aina", "Chrysgel", "Kai", "Purps", "Sushi"};
 		
 		String searchName = scanner.nextLine();
 		boolean foundName = false;
@@ -30,3 +30,4 @@ public class Names {
 	}
 
 }
+
